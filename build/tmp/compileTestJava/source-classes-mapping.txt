@@ -1,5 +1,0 @@
-AutowiredDoesNotRequireComponentScanTest.java
- AutowiredDoesNotRequireComponentScanTest
- ComplexBean
- Config
- SimpleBean

@@ -1,4 +1,0 @@
-case1/SimpleBean.java
- case1.SimpleBean
-case1/ComplexBean.java
- case1.ComplexBean
